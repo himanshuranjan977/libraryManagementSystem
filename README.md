@@ -54,10 +54,10 @@ Step 9th. Run the script http://localhost/libsysteme
 ## **Technologies Used**
 
 1.**Language**:                  PHP
-**Databases used**:      MySQL
-**Design used**:            HTML JavaScript, Ajax, JQuery, Bootstrap
-**Browser used**:          IE8, Google Chrome, Opera Mozilla
-**Software used**:         WAMP/ XAMPP/ LAMP/MAMP
+* **Databases used**:      MySQL
+* **Design used**:            HTML JavaScript, Ajax, JQuery, Bootstrap
+* **Browser used**:          IE8, Google Chrome, Opera Mozilla
+* **Software used**:         WAMP/ XAMPP/ LAMP/MAMP
 
 ## **features** 
 
@@ -107,21 +107,21 @@ Step 9th. Run the script http://localhost/libsysteme
 ## **Preview**
 
 * **Library Management System**
+* **Admin Login**
 ![Game](src/01.png)
-![Game](Screenshoots/About.png)
-![Game](Screenshoots/Signup.png)
-![Game](Screenshoots/Login.png)
-![Game](Screenshoots/Userprofile.png)
-![Game](Screenshoots/booking.png)
-![Game](Screenshoots/HelpCenter.png)
-![Game](Screenshoots/contactus.png)
+![Game](src/02.png)
+![Game](src/03.png)
+![Game](src/04.png)
+![Game](src/05.png)
+![Game](src/06.png)
+![Game](src/07.png)
+* **User login**
+![Game](src/09.png)
+![Game](src/10.png)
 
 
 
 
-* **Final results**
-
-![Game](Screenshoots/Adminlogin.png)
 
 ## **Deployed link**
 
