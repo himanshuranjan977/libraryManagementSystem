@@ -125,7 +125,7 @@ Step 9th. Run the script http://localhost/libsysteme
 
 ## **Deployed link**
 
-A deployed link is the [ <a href="https://himanshuranjan977.github.io/Online-Bus-Booking-System/" target="_blank">here</a>]  where your project is hosted and accessible to users, allowing them to interact with your application in a real environment.
+A deployed link is the [ <a href="https://himanshuranjan977.github.io/libraryManagementSystem/" target="_blank">here</a>]  where your project is hosted and accessible to users, allowing them to interact with your application in a real environment.
 
 ## **Future Development**
 
