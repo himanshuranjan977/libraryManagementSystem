@@ -53,7 +53,7 @@ Step 9th. Run the script http://localhost/libsysteme
 
 ## **Technologies Used**
 
-**Language**:                  PHP
+1.**Language**:                  PHP
 **Databases used**:      MySQL
 **Design used**:            HTML JavaScript, Ajax, JQuery, Bootstrap
 **Browser used**:          IE8, Google Chrome, Opera Mozilla
@@ -106,8 +106,8 @@ Step 9th. Run the script http://localhost/libsysteme
 
 ## **Preview**
 
-* **Online Bus Booking system Screen**
-![Game](Screenshoots/HomePage.png)
+* **Library Management System**
+![Game](src/01.png)
 ![Game](Screenshoots/About.png)
 ![Game](Screenshoots/Signup.png)
 ![Game](Screenshoots/Login.png)
